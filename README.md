@@ -113,17 +113,11 @@ The system trains and evaluates multiple models:
 
 ![Model Comparison Metrics](saved_data/visualizations/comparison/model_comparison_rmse.png)
 
-### 2. Hybrid Model Performance
-
-Our Hybrid model combines multiple approaches for optimal recommendations:
-
-![Component Weights](saved_data/visualizations/advanced_hybrid/component_weights.png)
-
 The model achieves strong prediction accuracy:
 
 ![True vs Predicted](saved_data/visualizations/advanced_hybrid/true_vs_pred.png)
 
-### 3. Exploratory Analysis
+### 2. Exploratory Analysis
 
 ```bash
 jupyter notebook eda.ipynb
