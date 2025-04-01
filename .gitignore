@@ -1,0 +1,19 @@
+GoodreadsData1/
+Goodreads Dataset/
+
+# saving some specific visualizations
+saved_data/*
+!saved_data/visualizations/
+saved_data/visualizations/*
+!saved_data/visualizations/comparison/
+!saved_data/visualizations/advanced_hybrid/
+
+venv/
+__pycache__/
+.DS_Store
+.env
+.venv
+*.log
+*.pyc
+*.pyo
+*.pyd
